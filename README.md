@@ -21,11 +21,6 @@ body {
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 <marquee behavior="alternate"><font color="#FFFF00">這裡是我的簡介 歡迎多認識我喔!!!</font></marquee>
 <p><font color="#33ff66">姓名</font><font color="#FFFFFF">: 蔡濬鍇 Kenny</font></p>
-<p><font color="#33ff66">性別</font><font color="#FFFFFF">: 男性</font></p>
-<p><font color="#33ff66">生日</font><font color="#FFFFFF">: 2000/12/24</font></p>
-<p><font color="#33ff66">星座</font><font color="#FFFFFF">: 摩羯座</font></p>
-<p><font color="#33ff66">感情狀態</font><font color="#FFFFFF">: 單身</font></p>
-
 <img src="DSC_0041_3.JPG" >
 
 
