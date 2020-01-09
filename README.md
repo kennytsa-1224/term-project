@@ -28,7 +28,7 @@ body {
 
 <img src="DSC_0041_3.JPG" >
 
-<p><font color="#33ff66">我是故意不讓你們看到直的怕你們</font></p>
+<p><font color="#33ff66">我是故意不讓你們看到直的怕你們受不了</font></p>
 <p><font color="#33ff66">學歷</font><font color="#FFFFFF">: 士東國小→薇閣中學→清大資工23級</font></p>
 <p><font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font></p>
 <p><font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font></p>
