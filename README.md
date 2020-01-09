@@ -33,7 +33,7 @@ body {
 <font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font>
 <font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font>
 <font color="#33ff66">email</font><font color="#FFFFFF">:</font>
-<a href="URL"><A HREF="http://a24332352@gmail.com/"target="_blank"><font color="#FFFFFF">a24332352@gmail.com</font></a>
+<a href="URL"><a href="http://a24332352@gmail.com/"target="_blank"><font color="#FFFFFF">a24332352@gmail.com</font></a>
 
 
 
