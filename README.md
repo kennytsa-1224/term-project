@@ -5,7 +5,7 @@
 <style>
 body {
   background-color: #555555;
-  text-align: "left";
+  text-align:"left";
   color: "white";
   font-family: Arial, Helvetica, sans-serif;
 }
