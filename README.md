@@ -52,6 +52,8 @@ body {
 <a href="URL"><a href="https://www.facebook.com/kennytsai1224"target="_blank"><font color="#66ffff">個人臉書專頁</font></a>
 <font color="#ff3399">來更加認識我喔!</font>
 <br>
+
+
 <script language="JavaScript">
 function ShowTime(){
 　document.getElementById('showbox').innerHTML = new Date();
@@ -59,9 +61,6 @@ function ShowTime(){
 }
 </script>
 <body onload="ShowTime()">
-<div onclick="ChangeColor('white')" style="background-color: fuchsia; border:3px double; width:150px;height:70px;float:right;">
+<div onclick="ChangeColor('white')" style="background-color: black; border:3px double; width:300px;height:70px;float:right;">
 <div id="showbox"></div>
-
-
-
 
