@@ -32,8 +32,9 @@ body {
 <font color="#33ff66">學歷</font><font color="#FFFFFF">: 士東國小→薇閣中學→清大資工23級</font>
 <font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font>
 <font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font>
-<font color="#33ff66">email</font><font color="#FFFFFF">:</font>
-<a href="URL"><a href="https://a24332352@gmail.com/"target="_blank"><font color="#FFFFFF">a24332352@gmail.com</font></a>
+<p><font color="#FFFFFF">email</font>
+<a href="URL"><a href="https://a24332352@gmail.com"target="_blank"><font color="#66ffff">a24332352@gmail.com</font></a>
+來更加認識我喔!
 
 
 
