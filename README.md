@@ -4,10 +4,10 @@
 <title>Page Title</title>
 <style>
 body {
-  background-color: "#555555";
+  background-color: #555555;
   text-align: "center";
   color: "white";
-  font-family: "Arial", "Helvetica", "sans-serif";
+  font-family: Arial, Helvetica, sans-serif;
 }
 </style>
 </head>
