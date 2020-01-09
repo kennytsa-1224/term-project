@@ -5,7 +5,7 @@
 <style>
 body {
   background-color: #555555;
-  text-align: "center";
+  text-align: "left";
   color: "white";
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,34 +20,34 @@ body {
 
 <hr size="5" align="center" noshade width="90%" color="0000ff">
 <marquee behavior="alternate"><font color="#FFFF00">這裡是我的簡介 歡迎多認識我喔!!!</font></marquee>
-<p align=left><font color="#33ff66">姓名</font><font color="#FFFFFF">: 蔡濬鍇 Kenny</font></p>
-<p align=left><font color="#33ff66">性別</font><font color="#FFFFFF">: 男性</font></p>
-<p align=left><font color="#33ff66">生日</font><font color="#FFFFFF">: 2000/12/24</font></p>
-<p align=left><font color="#33ff66">星座</font><font color="#FFFFFF">: 摩羯座</font></p>
-<p align=left><font color="#33ff66">感情狀態</font><font color="#FFFFFF">: 單身</font></p>
+<p><font color="#33ff66">姓名</font><font color="#FFFFFF">: 蔡濬鍇 Kenny</font></p>
+<p><font color="#33ff66">性別</font><font color="#FFFFFF">: 男性</font></p>
+<p><font color="#33ff66">生日</font><font color="#FFFFFF">: 2000/12/24</font></p>
+<p><font color="#33ff66">星座</font><font color="#FFFFFF">: 摩羯座</font></p>
+<p><font color="#33ff66">感情狀態</font><font color="#FFFFFF">: 單身</font></p>
 
 <img src="DSC_0041_3.JPG" >
 
 
-<p align=left><font color="#33ff66">學歷</font><font color=#"FFFFFF">: 士東國小→薇閣中學→清大資工23級</font></p>
-<p align=left><font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font></p>
-<p align=left><font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font></p>
-<p align=left><font color="#33ff66">email</font><font color="#FFFFFF">:</font>
+<p><font color="#33ff66">學歷</font><font color=#"FFFFFF">: 士東國小→薇閣中學→清大資工23級</font></p>
+<p><font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font></p>
+<p><font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font></p>
+<p><font color="#33ff66">email</font><font color="#FFFFFF">:</font>
 <A HREF="http://a24332352@gmail.com/"target="_blank"><font color="#FFFFFF">a24332352@gmail.com</font></a>
 
 
 
 
 
-<p align=left><font color="#33ff66">興趣:</font></p>
+<p><font color="#33ff66">興趣:</font></p>
 <ul>
-<li><p align=left><font color="#ff3399">關注時事</font></p></li>
-<li><p align=left><font color="#ff3399">熱愛研究超自然現象</font></p></li>
-<li><p align=left><font color="#ff3399">職業運動狂粉</font></p></li>
-<li><p align=left><font color="#ff3399">扭蛋小型玩家</font></p></li>
+<li><p><font color="#ff3399">關注時事</font></p></li>
+<li><p><font color="#ff3399">熱愛研究超自然現象</font></p></li>
+<li><p><font color="#ff3399">職業運動狂粉</font></p></li>
+<li><p><font color="#ff3399">扭蛋小型玩家</font></p></li>
 </ul>
 
-<p align=center><font color="#FFFFFF">歡迎前往我的</font>
+<p><font color="#FFFFFF">歡迎前往我的</font>
 <a href="https://www.facebook.com/kennytsai1224"target="_blank"><font color="#66ffff">個人臉書專頁</font></a>
 來更加認識我喔!
 
@@ -61,6 +61,7 @@ function ShowTime(){
 <div onclick="ChangeColor('while')" style="background-color: "deepskyblue"; "border:3px double"; width:150px;height:70px;float:center;">
 <div id="showbox"></div>
 
-
+</body>
+</html>
 
 
