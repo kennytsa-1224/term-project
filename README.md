@@ -32,7 +32,7 @@ body {
 <p><font color="#33ff66">學歷</font><font color="#FFFFFF">: 士東國小→薇閣中學→清大資工23級</font></p>
 <p><font color="#33ff66">家鄉</font><font color="#FFFFFF">: 台北</font></p>
 <p><font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font></p>
-<p><font color="#33ff66">email</font>: 
+<p><font color="#33ff66">email</font>
 <a href="https://a24332352@gmail.com"><font color="#66ffff">a24332352@gmail.com</font></a></p>
 
 
@@ -49,7 +49,7 @@ body {
 </ul>
 
 <p><font color="#FFFFFF">歡迎前往我的</font>
-<a href="URL"><a href="https://www.facebook.com/kennytsai1224"target="_blank"><font color="#66ffff">個人臉書專頁</font></a>
+<a href="https://www.facebook.com/kennytsai1224"><font color="#66ffff">個人臉書專頁</font></a>
 <font color="#FFFFFF">來更加認識我喔!</font>
 <br>
 
