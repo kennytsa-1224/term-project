@@ -34,7 +34,7 @@ body {
 <font color="#33ff66">電話</font><font color="#FFFFFF">: 0988068646</font>
 <p><font color="#FFFFFF">email</font>
 <a href="URL"><a href="https://a24332352@gmail.com"target="_blank"><font color="#66ffff">a24332352@gmail.com</font></a>
-來更加認識我喔!
+
 
 
 
@@ -50,8 +50,8 @@ body {
 
 <p><font color="#FFFFFF">歡迎前往我的</font>
 <a href="URL"><a href="https://www.facebook.com/kennytsai1224"target="_blank"><font color="#66ffff">個人臉書專頁</font></a>
-來更加認識我喔!
-
+<font color="#ff3399">來更加認識我喔!</font>
+<br>
 <script language="JavaScript">
 function ShowTime(){
 　document.getElementById('showbox').innerHTML = new Date();
@@ -59,10 +59,9 @@ function ShowTime(){
 }
 </script>
 <body onload="ShowTime()">
-<div onclick="ChangeColor('while')" style="background-color: "deepskyblue"; "border:3px double"; width:150px;height:70px;float:center;">
+<div onclick="ChangeColor('white')" style="background-color: fuchsia; border:3px double; width:150px;height:70px;float:right;">
 <div id="showbox"></div>
 
-</body>
-</html>
+
 
 
