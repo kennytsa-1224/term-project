@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: #555555;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/kennytsa-1224/term-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1><font color=#C0FF3E size="15">我的博客</font></h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<hr size="5" align="center" noshade width="90%" color="0000ff">
+<marquee behavior="alternate"><font color=#FFFF00>這裡是我的簡介 歡迎多認識我喔!!!</font></marquee>
+<p align=left><font color=#33ff66>姓名</font><font color=#FFFFFF>: 蔡濬鍇 Kenny</font></p>
+<p align=left><font color=#33ff66>性別</font><font color=#FFFFFF>: 男性</font></p>
+<p align=left><font color=#33ff66>生日</font><font color=#FFFFFF>: 2000/12/24</font></p>
+<p align=left><font color=#33ff66>星座</font><font color=#FFFFFF>: 摩羯座</font></p>
+<p align=left><font color=#33ff66>感情狀態</font><font color=#FFFFFF>: 單身</font></p>
 
-# Header 1
-## Header 2
-### Header 3
+<img src="DSC_0041_3.JPG"  style="width:200px">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<p align=left><font color=#33ff66>學歷</font><font color=#FFFFFF>: 士東國小→薇閣中學→清大資工23級</font></p>
+<p align=left><font color=#33ff66>家鄉</font><font color=#FFFFFF>: 台北</font></p>
+<p align=left><font color=#33ff66>電話</font><font color=#FFFFFF>: 0988068646</font></p>
+<p align=left><font color=#33ff66>email</font><font color=#FFFFFF>:</font>
+<A HREF="http://a24332352@gmail.com/"target="_blank"><font color=#FFFFFF>a24332352@gmail.com</font></a>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kennytsa-1224/term-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align=left><font color=#33ff66>興趣:</font></p>
+<ul>
+<li><p align=left><font color=#ff3399>關注時事</font></p></li>
+<li><p align=left><font color=#ff3399>熱愛研究超自然現象</font></p></li>
+<li><p align=left><font color=#ff3399>職業運動狂粉</font></p></li>
+<li><p align=left><font color=#ff3399>扭蛋小型玩家</font></p></li>
+</ul>
 
-### Support or Contact
+<p align=center><font color=#FFFFFF>歡迎前往我的</font>
+<a href="https://www.facebook.com/kennytsai1224"target="_blank"><font color=#66ffff>個人臉書專頁</font></a>
+來更加認識我喔!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script language="JavaScript">
+function ShowTime(){
+　document.getElementById('showbox').innerHTML = new Date();
+　setTimeout('ShowTime()',1000);
+}
+</script>
+<body onload="ShowTime()">
+<div onclick="ChangeColor('while')" style="background-color: deepskyblue; border:3px double; width:150px;height:70px;float:center;">
+<div id="showbox"></div>
+
+
+</body>
+</html>
