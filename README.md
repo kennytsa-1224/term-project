@@ -4,10 +4,10 @@
 <title>Page Title</title>
 <style>
 body {
-  background-color: #555555;
-  text-align: center;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: "#555555";
+  text-align: "center";
+  color: "white";
+  font-family: "Arial", "Helvetica", "sans-serif";
 }
 </style>
 </head>
@@ -58,7 +58,7 @@ function ShowTime(){
 }
 </script>
 <body onload="ShowTime()">
-<div onclick="ChangeColor('while')" style="background-color: deepskyblue; border:3px double; width:150px;height:70px;float:center;">
+<div onclick="ChangeColor('while')" style="background-color: "deepskyblue"; "border:3px double"; width:150px;height:70px;float:center;">
 <div id="showbox"></div>
 
 
